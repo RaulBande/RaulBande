@@ -1,6 +1,6 @@
 ## Introducing Myself
 <p align="center">
-  <img src="https://github.com/RaulBande/RaulBande/blob/main/B.png?raw=true" >
+  <img src=" " >
 </p>
 🚀 Aspiring Data Analyst | 📊 SQL | 📈 Power BI | 📊 Excel  
 
