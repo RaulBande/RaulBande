@@ -1,6 +1,6 @@
 ## Introducing Myself
 <p align="center">
-  <img src="https://github.com/RaulBande/RaulBande/blob/main/Birsan%20Radu.png?raw=true" width="40%" height="200px">
+  <img src="https://github.com/RaulBande/RaulBande/blob/main/Birsan%20Radu.png?raw=true" width="40%" >
 </p>
 🚀 Aspiring Data Analyst | 📊 SQL | 📈 Power BI | 📊 Excel  
 
