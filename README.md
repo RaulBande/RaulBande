@@ -1,5 +1,7 @@
 ## Introducing Myself
-![Banner](https://github.com/RaulBande/RaulBande/blob/main/Birsan%20Radu.png?raw=true)
+<p align="center">
+  <img src=" " width="80%">
+</p>
 🚀 Aspiring Data Analyst | 📊 SQL | 📈 Power BI | 📊 Excel  
 
 ##  My Passion 
