@@ -8,3 +8,6 @@ I love working with **data** to generate insights and solve business problems. T
 - **Power BI:** Creating dynamic dashboards  
 - **Excel:** Data cleaning & visualization  
 
+## Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/RaulBande/Projects.git)
+
