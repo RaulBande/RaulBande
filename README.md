@@ -9,8 +9,8 @@ I love working with **data** to generate insights and solve business problems. T
 - **Excel:** Data cleaning & visualization, analyzing pivot charts, knowledge in functions like Vlookup, Index and Match, Sumifs
 
 ## Certifications 
-Google Data Analyst Certificate
-DataCamp Data Analyst Associate Certification
+- **Google Data Analyst Certificate**
+- **DataCamp Data Analyst Associate Certification**
 
 ## Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/RaulBande/Projects.git)
